@@ -104,6 +104,7 @@ p {
     width: 100%;
     flex-grow: 1;
     border-radius: 0;
+    background-image: url('../images/image-header-desktop.jpg');
   }
 
   .section_text {
