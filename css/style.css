@@ -111,7 +111,7 @@ p {
     flex-grow: 1;
     gap: 2rem;
     text-align: start;
-    padding: 5em;
+    padding: 3em 5em;
   }
 
   .section_text > h1 {
